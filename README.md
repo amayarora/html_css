@@ -8,7 +8,7 @@ If you would like to contribute to this repository, you may vist my Wiki at the 
 
 Although, if you are a "stargazer," you may preview my code, check out my Project, **Complete html_css**, or check out my Wiki. Also, below this text, you can see seven distinct links directing you to seven distinct areas of this repository. Thank you for reading this description, and I very much appreciate it.
 
-*Code:
+*Code: https://github.com/amayarora/html_css
 Issues:
 Pull requests:
 Project:
