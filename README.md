@@ -24,3 +24,7 @@ _* Code: https://github.com/amayarora/html_css_
  - Contributions: https://github.com/amayarora/html_css/graphs/contibutions
  - Traffic: https://github.com/amayarora/html_css/graphs/traffic
  - Commits: https://github.com/amayarora/html_css/graphs/commit_activity
+ - Code frequency: https://github.com/amayarora/html_css/graphs/code
+ - Punch card:
+ - Network
+ - Members
