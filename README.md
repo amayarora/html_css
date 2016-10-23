@@ -14,7 +14,7 @@ Although, if you are a "stargazer," you may preview my code, check out my Projec
 
 *Pull requests: https://github.com/amayarora/html_css/pulls*
 
-*Project:*
+*Project: https://github.com/amayarora/html_css/projects/1*
 
 *Wiki:*
 
