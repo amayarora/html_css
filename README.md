@@ -21,4 +21,4 @@ Although, if you are a "stargazer," you may preview my code, check out my Projec
 * Pulse: https://github.com/amayarora/html_css/pulse
 
 * Graphs
-- Contributions: https://github.com/amayarora/html_css/graphs/contibutions 
+ - Contributions: https://github.com/amayarora/html_css/graphs/contibutions 
