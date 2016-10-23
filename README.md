@@ -8,23 +8,17 @@ If you would like to contribute to this repository, you may vist my Wiki at the 
 
 Although, if you are a "stargazer," you may preview my code, check out my Project, **Complete html_css**, or check out my Wiki. Also, below this text, you can see seven distinct links directing you to seven distinct areas of this repository. Thank you for reading this description, and I very much appreciate it.
 
-_* Code: https://github.com/amayarora/html_css_
-
+* Code: https://github.com/amayarora/html_css_
 * Issues: https://github.com/amayarora/html_css/issues
-
 * Pull requests: https://github.com/amayarora/html_css/pulls
-
 * Project: https://github.com/amayarora/html_css/projects/1
-
 * Wiki: https://github.com/amayarora/html_css/wiki
-
 * Pulse: https://github.com/amayarora/html_css/pulse
-
 * Graphs
  - Contributions: https://github.com/amayarora/html_css/graphs/contibutions
  - Traffic: https://github.com/amayarora/html_css/graphs/traffic
- - Commits: https://github.com/amayarora/html_css/graphs/commit_activity
- - Code frequency: https://github.com/amayarora/html_css/graphs/code
- - Punch card:
- - Network
- - Members
+ - Commits: https://github.com/amayarora/html_css/graphs/commit-activity
+ - Code frequency: https://github.com/amayarora/html_css/graphs/code-frequency
+ - Punch card: https://github.com/amayarora/html_css/graphs/punch-card
+ - Network: https://github.com/amayarora/html_css/graphs/network
+ - Members: https://github.com/amayarora/html_css/graphs/members
