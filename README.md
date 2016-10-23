@@ -14,7 +14,7 @@ Although, if you are a "stargazer," you may preview my code, check out my Projec
 * Project: https://github.com/amayarora/html_css/projects/1
 * Wiki: https://github.com/amayarora/html_css/wiki
 * Pulse: https://github.com/amayarora/html_css/pulse
-* Graphs
+* Graphs — Options
  - Contributions: https://github.com/amayarora/html_css/graphs/contibutions
  - Traffic: https://github.com/amayarora/html_css/graphs/traffic
  - Commits: https://github.com/amayarora/html_css/graphs/commit-activity
