@@ -21,4 +21,6 @@ _* Code: https://github.com/amayarora/html_css_
 * Pulse: https://github.com/amayarora/html_css/pulse
 
 * Graphs
- - Contributions: https://github.com/amayarora/html_css/graphs/contibutions 
+ - Contributions: https://github.com/amayarora/html_css/graphs/contibutions
+ - Traffic: https://github.com/amayarora/html_css/graphs/traffic
+ - Commits: https://github.com/amayarora/html_css/graphs/commit_activity
