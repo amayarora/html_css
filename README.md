@@ -25,4 +25,5 @@ Although, if you are a *“stargazer,”* you may preview my code, check out my 
 
 Also, here is where you can find where my files for this designated GitHub repository are published:
 
-* **index.html**: https://amayarora.github.io/html_css/
+* **index.html**: https://amayarora.github.io/html_css/, https://amayarora.github.io/html_css/index.html
+* **index_II.html**: https://amayarora.github.io/html_css/index_II.html
