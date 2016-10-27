@@ -27,3 +27,4 @@ Also, here is where you can find where my files for this designated GitHub repos
 
 * **index.html**: *https://amayarora.github.io/html_css/*, *https://amayarora.github.io/html_css/index.html*
 * **index_II.html**: *https://amayarora.github.io/html_css/index_II.html*
+ - *This file on this GitHub repository in currently in progress, so it may look a bit unorganized.
