@@ -23,3 +23,6 @@ Although, if you are a *“stargazer,”* you may preview my code, check out my 
  - Network: https://github.com/amayarora/html_css/graphs/network
  - Members: https://github.com/amayarora/html_css/graphs/members
 
+Also, here is where you can find where my files for this designated GitHub repository are published:
+
+* **index.html**: https://amayarora.github.io/html_css/
