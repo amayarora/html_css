@@ -11,7 +11,7 @@ Although, if you are a *“stargazer,”* you may preview my code, check out my 
 * **Code**: *https://github.com/amayarora/html_css*
 * **Issues**: *https://github.com/amayarora/html_css/issues*
 * **Pull requests**: *https://github.com/amayarora/html_css/pulls*
-* **Project: *https://github.com/amayarora/html_css/projects/1*
+* **Project**: *https://github.com/amayarora/html_css/projects/1*
 * **Wiki**: *https://github.com/amayarora/html_css/wiki*
 * **Pulse**: *https://github.com/amayarora/html_css/pulse*
 * **Graphs** — *Options*
