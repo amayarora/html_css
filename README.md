@@ -27,7 +27,7 @@ Also, the following depicts a simple directory of my files for this designated G
 
 ## CSS Files
 
-_Coming soon in **v0.7.5** and **v1.0.0**!_
+_Coming soon in [**v0.7.5**](https://github.com/amayarora/html_css/releases/v0.7.5) and [**v1.0.0**](https://github.com/amayarora/html_css/releases/v1.0.0)!_
 
 ## HTML Files
 
