@@ -15,7 +15,7 @@ Although, if you are a *“stargazer,”* you may preview my code, check out my 
 * **Wiki**: *https://github.com/amayarora/html_css/wiki*
 * **Pulse**: *https://github.com/amayarora/html_css/pulse*
 * **Graphs** — *Options*
- - **Contributions**: *https://github.com/theAroras/html_css/graphs/contributions*
+ - **Contributions**: *https://github.com/theAroras/html_css/graphs/contributors*
  - **Traffic**: *https://github.com/amayarora/html_css/graphs/traffic*
  - **Commits**: *https://github.com/amayarora/html_css/graphs/commit-activity*
  - **Code frequency**: *https://github.com/amayarora/html_css/graphs/code-frequency*
