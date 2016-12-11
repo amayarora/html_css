@@ -31,7 +31,7 @@ _Coming soon in [**v0.7.5**](https://github.com/amayarora/html_css/releases/v0.7
 
 ## HTML Files
 
-* **index.html**: *https://theAroras.github.io/html_css* a, *https://theAroras.github.io/html_css/index.html*
+* **index.html**: *https://theAroras.github.io/html_css*, *https://theAroras.github.io/html_css/index.html*
 * **index_II.html**: *https://theAroras.github.io/html_css/index_II.html*
  - _**Disclaimer**: This file on this GitHub repository in currently in progress, so it may look a bit unorganized._
  
@@ -42,6 +42,6 @@ _Coming soon in [**v0.7.5**](https://github.com/amayarora/html_css/releases/v0.7
 
 ## License
 
-**MIT License**: *https://github.com/theAroras/html_css/blob/master/intro/LICENSE.txt* a
+**MIT License**: *https://github.com/theAroras/html_css/blob/master/intro/LICENSE.txt*
 
 Thank you for reading this description and / or **README.md**, and I very much appreciate it.
