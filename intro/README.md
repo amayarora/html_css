@@ -42,6 +42,6 @@ _Coming soon in [**v0.7.5**](https://github.com/amayarora/html_css/releases/v0.7
 
 ## License
 
-**MIT License**: *https://github.com/theAroras/html_css/blob/master/intro/LICENSE.txt*, *https://raw.githubusercontent.com/theAroras/html_css/master/intro/LICENSE.txt*
+**MIT License**: *https://github.com/theAroras/html_css/blob/master/intro/LICENSE.txt*
 
 Thank you for reading this description and / or **README.md**, and I very much appreciate it.
