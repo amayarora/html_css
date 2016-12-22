@@ -15,13 +15,13 @@ Although, if you are a *“stargazer,”* you may preview my code, check out my 
 * **Wiki**: *https://github.com/amayarora/html_css/wiki*
 * **Pulse**: *https://github.com/amayarora/html_css/pulse*
 * **Graphs** — *Options*
- - **Contributions**: *https://github.com/theAroras/html_css/graphs/contributors*
+ - **Contributions**: *https://github.com/amayarora/html_css/graphs/contributors*
  - **Traffic**: *https://github.com/amayarora/html_css/graphs/traffic*
  - **Commits**: *https://github.com/amayarora/html_css/graphs/commit-activity*
  - **Code frequency**: *https://github.com/amayarora/html_css/graphs/code-frequency*
  - **Punch card**: *https://github.com/amayarora/html_css/graphs/punch-card*
- - **Network**: *https://github.com/theAroras/html_css/graphs/network*
- - **Members**: *https://github.com/theAroras/html_css/graphs/members*
+ - **Network**: *https://github.com/amayarora/html_css/graphs/network*
+ - **Members**: *https://github.com/amayarora/html_css/graphs/members*
 
 Also, the following depicts a simple directory of my files for this designated GitHub repository:
 
@@ -31,14 +31,14 @@ _Coming soon in [**v0.7.5**](https://github.com/amayarora/html_css/releases/v0.7
 
 ## HTML Files
 
-* **index.html**: *https://theAroras.github.io/html_css*, *https://theAroras.github.io/html_css/index.html*
-* **index_II.html**: *https://theAroras.github.io/html_css/index_II.html*
+* **index.html**: *https://theAroras.github.io/html_css*, *https://amayarora.github.io/html_css/index.html*
+* **index_II.html**: *https://amayarora.github.io/html_css/index_II.html*
  - _**Disclaimer**: This file on this GitHub repository in currently in progress, so it may look a bit unorganized._
  
 ## Images / GIFs
 
-* **hqdefault.jpg**: *https://theAroras.github.io/hqdefault.jpg*
-* **octocat-walk.gif**: *https://theAroras.github.io/octocat-walk.gif*
+* **hqdefault.jpg**: *https://amayarora.github.io/hqdefault.jpg*
+* **octocat-walk.gif**: *https://amayarora.github.io/octocat-walk.gif*
 
 ## License
 
