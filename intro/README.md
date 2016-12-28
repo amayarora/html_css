@@ -31,17 +31,17 @@ _Coming soon in [**v0.7.5**](https://github.com/amayarora/html_css/releases/v0.7
 
 ## HTML Files
 
-* **index.html**: *https://theAroras.github.io/html_css*, *https://amayarora.github.io/html_css/index.html*
+* **index.html**: *https://amayarora.github.io/html_css*, *https://amayarora.github.io/html_css/html/index.html*
 * **index_II.html**: *https://amayarora.github.io/html_css/index_II.html*
  - _**Disclaimer**: This file on this GitHub repository in currently in progress, so it may look a bit unorganized._
  
 ## Images / GIFs
 
-* **hqdefault.jpg**: *https://amayarora.github.io/hqdefault.jpg*
-* **octocat-walk.gif**: *https://amayarora.github.io/octocat-walk.gif*
+* **hqdefault.jpg**: *https://amayarora.github.io/html_css/hqdefault.jpg*
+* **octocat-walk.gif**: *https://amayarora.github.io/html_css/octocat-walk.gif*
 
 ## License
 
-**MIT License**: *https://github.com/theAroras/html_css/blob/master/intro/LICENSE.txt*
+**MIT License**: *https://github.com/amayarora/html_css/blob/master/intro/LICENSE.txt*
 
 Thank you for reading this description and / or **README.md**, and I very much appreciate it.
